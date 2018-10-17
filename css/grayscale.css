@@ -191,7 +191,7 @@
 }
 
 .card {
-  border: 0; 
+  border: 1px solid; 
 }
 
 @media (min-width: 992px) {
@@ -289,7 +289,7 @@
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
-  background-image: radial-gradient(black, white);
+  background: radial-gradient(black, white);
 }
 
 
