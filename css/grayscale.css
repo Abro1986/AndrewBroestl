@@ -194,6 +194,14 @@
   border: 1px solid; 
 }
 
+.middle {
+  background: radial-gradient(white, black);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
